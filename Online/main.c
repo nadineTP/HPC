@@ -3,6 +3,7 @@
 int buffer,empty,full=0,mutex=1,op,x=0;
 
 //Commentaire
+//Commentaire2
 
 int wait(int s){
     while(s<=0);
