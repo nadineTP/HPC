@@ -2,6 +2,8 @@
 #include<stdlib.h>
 int buffer,empty,full=0,mutex=1,op,x=0;
 
+//Commentaire
+
 int wait(int s){
     while(s<=0);
     return --s;
